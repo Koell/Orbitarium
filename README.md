@@ -1,2 +1,0 @@
-# Orbitalis
-Orbital Approximation
