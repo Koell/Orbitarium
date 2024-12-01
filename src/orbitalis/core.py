@@ -1,5 +1,4 @@
-from datetime import datetime
-import math
+from datetime import datetime, timezone
 from data.celestial_data import CELESTIAL_DATA
 
 
@@ -9,7 +8,7 @@ class Orbitalis:
 
     def get_positions(self, timestamp):
         timestamp_dt = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
-        epoch = datetime(2000, 1, 1)
+        epoch = datetime(2492, 6, 6, tzinfo=timezone.utc)
         elapsed_days = (timestamp_dt - epoch).total_seconds() / (24 * 3600)
         return self.calculate_positions("sol", self.celestial_data["sol"]["orbitals"], elapsed_days)
 
