@@ -1,9 +1,9 @@
 import unittest
-from orbitalis.core import Orbitalis
+from orbitarium.core import Orbitarium
 
-class TestOrbitalis(unittest.TestCase):
+class TestOrbitarium(unittest.TestCase):
     def test_positions(self):
-        orbitalis = Orbitalis()
+        orbitalis = Orbitarium()
         timestamp = "2024-08-25T00:00:00Z"
         positions = orbitalis.get_positions(timestamp)
         self.assertIn("earth", positions["sol"]["orbitals"])

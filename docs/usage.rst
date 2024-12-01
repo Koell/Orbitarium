@@ -2,13 +2,13 @@
 Usage
 ==========================
 
-Using Orbitalis is simple. Here's a quick start:
+Using Orbitarium is simple. Here's a quick start:
 
 .. code-block:: python
 
-    from orbitalis import Orbitalis
+    from orbitalis import Orbitarium
 
-    orbitalis = Orbitalis()
+    orbitalis = Orbitarium()
     timestamp = "2024-08-25T00:00:00Z"
     positions = orbitalis.get_positions(timestamp)
 

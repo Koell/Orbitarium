@@ -3,13 +3,13 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "orbitalis"
-version = "0.1.1"
+name = "orbitarium"
+version = "1.0.0"
 authors = [
     { name = "Fabian Köll", email = "koell.dev@gmail.com" },
 ]
 description = "A library to approximate positions of planets and moons in our Solar System."
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "GPLv3" }
 classifiers = [
@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/koell/orbitalis"
-Issues = "https://github.com/koell/orbitalis/issues"
+Homepage = "https://github.com/koell/orbitarium"
+Issues = "https://github.com/koell/orbitarium/issues"
