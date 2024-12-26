@@ -23,6 +23,17 @@ Install via pip:
 Here's a simple example of how to use Orbitarium:
 
 ```python
+from datetime import datetime, timezone
+import orbitarium
+
+instance = orbitarium.Orbitarium()
+date = datetime(2025, 1, 1, tzinfo=timezone.utc)
+positions = instance.get_positions(date, max_range=360)
+
+print(positions)
+```
+or
+```python
 import orbitarium
 
 instance = orbitarium.Orbitarium()

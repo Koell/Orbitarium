@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="orbitarium",
-    version="1.0.0",
+    version="1.0.1",
     author="Fabian Köll",
     description="A library to approximate positions of planets and moons in our Solar System.",
     long_description=long_description,
