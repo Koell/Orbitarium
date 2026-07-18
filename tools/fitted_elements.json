@@ -1,0 +1,1337 @@
+{
+  "rhea": {
+    "a_km": 527067.9652934838,
+    "e": 0.0010316328712167819,
+    "i_deg": 0.309803379081299,
+    "node_deg": 347.124017792119,
+    "node_rate_deg_per_day": -0.027645408406109486,
+    "arg_periapsis_deg": 219.8544043600472,
+    "arg_periapsis_rate_deg_per_day": 0.02920790278367607,
+    "mean_anomaly_deg": 205.18824264227183,
+    "mean_motion_deg_per_day": 79.68848385089076,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.039511772435049296,
+      "worst_deg": 0.09967051134079276,
+      "worst_dist_rel": 0.00033608736456189196,
+      "n_samples": 1104
+    }
+  },
+  "titan": {
+    "a_km": 1221860.8359560352,
+    "e": 0.028748505721792106,
+    "i_deg": 0.33566297988039245,
+    "node_deg": 23.98933144819139,
+    "node_rate_deg_per_day": -0.0013260106366555086,
+    "arg_periapsis_deg": 184.21699157651653,
+    "arg_periapsis_rate_deg_per_day": 0.0027308206576274105,
+    "mean_anomaly_deg": 163.51916045106304,
+    "mean_motion_deg_per_day": 22.575571404020184,
+    "pole_ra_deg": 36.4,
+    "pole_dec_deg": 84.0,
+    "fit": {
+      "rms_deg": 0.017208616631892923,
+      "worst_deg": 0.050796386773874574,
+      "worst_dist_rel": 0.0003393545698078519,
+      "n_samples": 1104
+    }
+  },
+  "phobos": {
+    "a_km": 9373.982228357818,
+    "e": 0.004708523890299553,
+    "i_deg": 1.0686467790303398,
+    "node_deg": 169.4146261735844,
+    "node_rate_deg_per_day": -0.4357822005657474,
+    "arg_periapsis_deg": 206.10754115116623,
+    "arg_periapsis_rate_deg_per_day": 1.2887893104638557,
+    "mean_anomaly_deg": 199.6407007383366,
+    "mean_motion_deg_per_day": 1127.9917493788141,
+    "pole_ra_deg": 317.7,
+    "pole_dec_deg": 52.9,
+    "fit": {
+      "rms_deg": 1.1633912732081184,
+      "worst_deg": 2.2732508168600685,
+      "worst_dist_rel": 0.01998733759136829,
+      "n_samples": 1104
+    },
+    "mean_motion_rate_deg_per_day2": 1.889397926306048e-08
+  },
+  "mimas": {
+    "a_km": 185670.20905880077,
+    "e": 0.005415033757023762,
+    "i_deg": 1.5776455448088549,
+    "node_deg": 173.23157111979071,
+    "node_rate_deg_per_day": -0.9994509254830728,
+    "arg_periapsis_deg": 309.16769068096795,
+    "arg_periapsis_rate_deg_per_day": 3.006989931135914,
+    "mean_anomaly_deg": 37.84637613678615,
+    "mean_motion_deg_per_day": 379.9869529973263,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 1.4943579425522364,
+      "worst_deg": 3.6700699818546725,
+      "worst_dist_rel": 0.02641790147862598,
+      "n_samples": 1104
+    },
+    "libration_sin_deg": -33.84479490444004,
+    "libration_cos_deg": 27.981689471527822,
+    "libration_period_days": 25859.367856436747
+  },
+  "io": {
+    "a_km": 421760.6760524374,
+    "e": 0.0009597566954303886,
+    "i_deg": 0.023020300800993106,
+    "node_deg": 256.47140043576434,
+    "node_rate_deg_per_day": -0.006654003615110649,
+    "arg_periapsis_deg": 117.90298853471377,
+    "arg_periapsis_rate_deg_per_day": 0.7538954596312132,
+    "mean_anomaly_deg": 5.5320894769564575,
+    "mean_motion_deg_per_day": 202.7417167962427,
+    "pole_ra_deg": 268.1,
+    "pole_dec_deg": 64.5,
+    "fit": {
+      "rms_deg": 0.32644882190573127,
+      "worst_deg": 0.5935531356887747,
+      "worst_dist_rel": 0.00513428280560361,
+      "n_samples": 1104
+    }
+  },
+  "deimos": {
+    "a_km": 23457.495297350426,
+    "e": 0.00026460539463703286,
+    "i_deg": 1.797777867391369,
+    "node_deg": 55.18467853044142,
+    "node_rate_deg_per_day": -0.018041625365308903,
+    "arg_periapsis_deg": 195.13525359460033,
+    "arg_periapsis_rate_deg_per_day": 0.03660947889744108,
+    "mean_anomaly_deg": 9.093786817686293,
+    "mean_motion_deg_per_day": 285.14331717408464,
+    "pole_ra_deg": 316.6,
+    "pole_dec_deg": 53.5,
+    "fit": {
+      "rms_deg": 0.15433663967772474,
+      "worst_deg": 0.3600602277011012,
+      "worst_dist_rel": 0.0002092315977307212,
+      "n_samples": 1104
+    }
+  },
+  "europa": {
+    "a_km": 671033.3598395737,
+    "e": 0.002289367242703145,
+    "i_deg": 0.4602263030675006,
+    "node_deg": 183.06464646870145,
+    "node_rate_deg_per_day": -0.03268666784149616,
+    "arg_periapsis_deg": 13.903006112956612,
+    "arg_periapsis_rate_deg_per_day": 0.6909586949713971,
+    "mean_anomaly_deg": 17.47979068800504,
+    "mean_motion_deg_per_day": 100.71645198697239,
+    "pole_ra_deg": 268.1,
+    "pole_dec_deg": 64.5,
+    "fit": {
+      "rms_deg": 0.7332832840455805,
+      "worst_deg": 1.4180067220223114,
+      "worst_dist_rel": 0.011957277415243802,
+      "n_samples": 1104
+    }
+  },
+  "ganymede": {
+    "a_km": 1070426.5936468486,
+    "e": 0.001394168526792366,
+    "i_deg": 0.19948522182554249,
+    "node_deg": 44.16973477322652,
+    "node_rate_deg_per_day": -0.008025022959473592,
+    "arg_periapsis_deg": 240.67550019300583,
+    "arg_periapsis_rate_deg_per_day": 0.01669316898727154,
+    "mean_anomaly_deg": 296.8125360593423,
+    "mean_motion_deg_per_day": 50.30893911504629,
+    "pole_ra_deg": 268.2,
+    "pole_dec_deg": 64.6,
+    "fit": {
+      "rms_deg": 0.0721719010969081,
+      "worst_deg": 0.2812185072011177,
+      "worst_dist_rel": 0.001879174539150479,
+      "n_samples": 1104
+    }
+  },
+  "callisto": {
+    "a_km": 1882728.9276565092,
+    "e": 0.007377673329722547,
+    "i_deg": 0.2357494624254611,
+    "node_deg": 301.34525882999174,
+    "node_rate_deg_per_day": -0.0023717764092085394,
+    "arg_periapsis_deg": 52.63488085110822,
+    "arg_periapsis_rate_deg_per_day": 0.004275020384988405,
+    "mean_anomaly_deg": 86.40721201077837,
+    "mean_motion_deg_per_day": 21.56916950647946,
+    "pole_ra_deg": 268.7,
+    "pole_dec_deg": 64.8,
+    "fit": {
+      "rms_deg": 0.02324667485080197,
+      "worst_deg": 0.0797389003463488,
+      "worst_dist_rel": 0.00040542984122678074,
+      "n_samples": 1104
+    }
+  },
+  "amalthea": {
+    "a_km": 181275.1113356371,
+    "e": 0.0006184185776914779,
+    "i_deg": 0.3777475968479296,
+    "node_deg": 283.1708131358673,
+    "node_rate_deg_per_day": -2.5048408124881907,
+    "arg_periapsis_deg": 150.23350187630462,
+    "arg_periapsis_rate_deg_per_day": 7.492000731507493,
+    "mean_anomaly_deg": 340.075702959335,
+    "mean_motion_deg_per_day": 717.6445600984924,
+    "pole_ra_deg": 268.1,
+    "pole_dec_deg": 64.5,
+    "fit": {
+      "rms_deg": 0.25602188015775407,
+      "worst_deg": 0.5156795931414236,
+      "worst_dist_rel": 0.004372658880139444,
+      "n_samples": 1104
+    }
+  },
+  "enceladus": {
+    "a_km": 238033.8310686532,
+    "e": 0.004746305716287475,
+    "i_deg": 0.03658100332975407,
+    "node_deg": 188.2312852622848,
+    "node_rate_deg_per_day": 0.0002960134934407686,
+    "arg_periapsis_deg": 343.81873806400716,
+    "arg_periapsis_rate_deg_per_day": 0.337707851970917,
+    "mean_anomaly_deg": 10.243886844512872,
+    "mean_motion_deg_per_day": 262.393894632971,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.20092533939855184,
+      "worst_deg": 0.4850416620858207,
+      "worst_dist_rel": 0.00021731726063226555,
+      "n_samples": 1104
+    }
+  },
+  "iapetus": {
+    "a_km": 3561025.9737991514,
+    "e": 0.028328320988148453,
+    "i_deg": 7.5525692911184015,
+    "node_deg": 74.70973241932079,
+    "node_rate_deg_per_day": -0.00031901964394878793,
+    "arg_periapsis_deg": 276.9489884155431,
+    "arg_periapsis_rate_deg_per_day": 0.0006159875459931975,
+    "mean_anomaly_deg": 208.59585962916742,
+    "mean_motion_deg_per_day": 4.537654338217139,
+    "pole_ra_deg": 288.7,
+    "pole_dec_deg": 78.9,
+    "fit": {
+      "rms_deg": 0.06486293984975611,
+      "worst_deg": 0.22451060780897064,
+      "worst_dist_rel": 0.0007968988325823246,
+      "n_samples": 1104
+    }
+  },
+  "ariel": {
+    "a_km": 190929.02204709456,
+    "e": 0.0012536908800153779,
+    "i_deg": 0.011167951131951922,
+    "node_deg": 166.20642600208285,
+    "node_rate_deg_per_day": -0.008181068087796837,
+    "arg_periapsis_deg": 250.06252157022655,
+    "arg_periapsis_rate_deg_per_day": 0.023984348658161077,
+    "mean_anomaly_deg": 146.8613292466416,
+    "mean_motion_deg_per_day": 142.81985457571784,
+    "pole_ra_deg": 77.311,
+    "pole_dec_deg": 15.175,
+    "fit": {
+      "rms_deg": 0.09665360635513844,
+      "worst_deg": 0.39275164327939255,
+      "worst_dist_rel": 0.001898453738628411,
+      "n_samples": 1104
+    }
+  },
+  "umbriel": {
+    "a_km": 265980.2306673455,
+    "e": 0.003940371285309813,
+    "i_deg": 0.07147290367384042,
+    "node_deg": 191.15192678734252,
+    "node_rate_deg_per_day": -0.00734486319764914,
+    "arg_periapsis_deg": 155.6870671914067,
+    "arg_periapsis_rate_deg_per_day": 0.014897895611198938,
+    "mean_anomaly_deg": 264.40809115916215,
+    "mean_motion_deg_per_day": 86.86132109649081,
+    "pole_ra_deg": 77.311,
+    "pole_dec_deg": 15.175,
+    "fit": {
+      "rms_deg": 0.05759690060069016,
+      "worst_deg": 0.22162842760781262,
+      "worst_dist_rel": 0.001503466407206816,
+      "n_samples": 1104
+    }
+  },
+  "titania": {
+    "a_km": 436292.85540543345,
+    "e": 0.0018031220702683544,
+    "i_deg": 0.10713708781520993,
+    "node_deg": 351.29421098074135,
+    "node_rate_deg_per_day": -0.0016037673208725762,
+    "arg_periapsis_deg": 234.06184956295135,
+    "arg_periapsis_rate_deg_per_day": 0.004406149336701198,
+    "mean_anomaly_deg": 56.21770166584668,
+    "mean_motion_deg_per_day": 41.34861279142596,
+    "pole_ra_deg": 77.311,
+    "pole_dec_deg": 15.175,
+    "fit": {
+      "rms_deg": 0.0787071983909881,
+      "worst_deg": 0.24271574161166065,
+      "worst_dist_rel": 0.0019901473065074313,
+      "n_samples": 1104
+    }
+  },
+  "oberon": {
+    "a_km": 583453.9379158665,
+    "e": 0.001055298262067925,
+    "i_deg": 0.17037532453646925,
+    "node_deg": 38.50500663818547,
+    "node_rate_deg_per_day": -0.0006608488495510081,
+    "arg_periapsis_deg": 152.47206036451908,
+    "arg_periapsis_rate_deg_per_day": 0.00043122742660974656,
+    "mean_anomaly_deg": 161.59932900312072,
+    "mean_motion_deg_per_day": 26.739712235681296,
+    "pole_ra_deg": 77.311,
+    "pole_dec_deg": 15.175,
+    "fit": {
+      "rms_deg": 0.07714155985033373,
+      "worst_deg": 0.22360925970317785,
+      "worst_dist_rel": 0.0019148953936434794,
+      "n_samples": 1104
+    }
+  },
+  "miranda": {
+    "a_km": 129828.31049627137,
+    "e": 0.0012974103018540196,
+    "i_deg": 4.427107030663025,
+    "node_deg": 100.84967873179572,
+    "node_rate_deg_per_day": -0.055413438885174464,
+    "arg_periapsis_deg": 157.2004496166865,
+    "arg_periapsis_rate_deg_per_day": 0.11080776718928224,
+    "mean_anomaly_deg": 70.3230778907573,
+    "mean_motion_deg_per_day": 254.63525985493234,
+    "pole_ra_deg": 77.311,
+    "pole_dec_deg": 15.175,
+    "fit": {
+      "rms_deg": 0.9923049095290316,
+      "worst_deg": 1.8996282980730017,
+      "worst_dist_rel": 0.0006685107279733394,
+      "n_samples": 1104
+    }
+  },
+  "triton": {
+    "a_km": 354758.8466119618,
+    "e": 0.0001269740248622145,
+    "i_deg": 157.14190080690392,
+    "node_deg": 176.78300540809772,
+    "node_rate_deg_per_day": 0.0014488901864152868,
+    "arg_periapsis_deg": 76.2983340429354,
+    "arg_periapsis_rate_deg_per_day": 0.0025685104406947467,
+    "mean_anomaly_deg": 341.4478823552338,
+    "mean_motion_deg_per_day": 61.25614199325632,
+    "pole_ra_deg": 299.8,
+    "pole_dec_deg": 43.1,
+    "fit": {
+      "rms_deg": 0.0649896965681097,
+      "worst_deg": 0.2984877992590053,
+      "worst_dist_rel": 1.854082541481079e-06,
+      "n_samples": 1104
+    }
+  },
+  "nereid": {
+    "a_km": 5517563.888696097,
+    "e": 0.7500083783797346,
+    "i_deg": 5.035007113250444,
+    "node_deg": 319.95232421644744,
+    "node_rate_deg_per_day": -9.99950978535987e-05,
+    "arg_periapsis_deg": 296.4085758727195,
+    "arg_periapsis_rate_deg_per_day": 0.00011824671283900207,
+    "mean_anomaly_deg": 216.27693783193382,
+    "mean_motion_deg_per_day": 0.9996130978046888,
+    "pole_ra_deg": 270.0,
+    "pole_dec_deg": 66.56070888888888,
+    "fit": {
+      "rms_deg": 1.1616661013914378,
+      "worst_deg": 13.900353842784495,
+      "worst_dist_rel": 0.08449866419731447,
+      "n_samples": 1104
+    }
+  },
+  "proteus": {
+    "a_km": 117646.56064396311,
+    "e": 0.00017088283849710502,
+    "i_deg": 0.4465220294677788,
+    "node_deg": 301.4703643877456,
+    "node_rate_deg_per_day": 0.0013491224889007507,
+    "arg_periapsis_deg": 78.48978482919287,
+    "arg_periapsis_rate_deg_per_day": -0.04583205760755935,
+    "mean_anomaly_deg": 253.85588175561935,
+    "mean_motion_deg_per_day": 320.81011746981164,
+    "pole_ra_deg": 299.8,
+    "pole_dec_deg": 42.6,
+    "fit": {
+      "rms_deg": 0.15375634187553247,
+      "worst_deg": 0.6549500344147797,
+      "worst_dist_rel": 0.0006635457761869351,
+      "n_samples": 1104
+    }
+  },
+  "charon": {
+    "a_km": 19595.764810409357,
+    "e": 0.00016074688867326515,
+    "i_deg": 0.08357777122863791,
+    "node_deg": 9.638548167359234,
+    "node_rate_deg_per_day": 9.385978311503798e-05,
+    "arg_periapsis_deg": 145.63905544458652,
+    "arg_periapsis_rate_deg_per_day": -9.329612638191873e-05,
+    "mean_anomaly_deg": 148.84413165739082,
+    "mean_motion_deg_per_day": 56.36252975515462,
+    "pole_ra_deg": 132.993,
+    "pole_dec_deg": -6.163,
+    "fit": {
+      "rms_deg": 0.0017027648195285655,
+      "worst_deg": 0.004390511946487193,
+      "worst_dist_rel": 7.85177867337656e-07,
+      "n_samples": 1104
+    }
+  },
+  "styx": {
+    "a_km": 42411.991285942604,
+    "e": 0.0008171075857180282,
+    "i_deg": 0.07189142768169016,
+    "node_deg": 8.873870235625532,
+    "node_rate_deg_per_day": 9.143226116485355e-05,
+    "arg_periapsis_deg": 130.3836666020306,
+    "arg_periapsis_rate_deg_per_day": 0.03736100701969118,
+    "mean_anomaly_deg": 51.442885191067035,
+    "mean_motion_deg_per_day": 17.818024137064576,
+    "pole_ra_deg": 132.993,
+    "pole_dec_deg": -6.163,
+    "fit": {
+      "rms_deg": 0.3332288262256923,
+      "worst_deg": 1.2363398656206328,
+      "worst_dist_rel": 0.010724461255582777,
+      "n_samples": 1104
+    }
+  },
+  "nix": {
+    "a_km": 48679.91255710526,
+    "e": 0.0006065144137133511,
+    "i_deg": 0.0881056158750154,
+    "node_deg": 14.078621136898429,
+    "node_rate_deg_per_day": 0.0002102533494989788,
+    "arg_periapsis_deg": 142.9858849069541,
+    "arg_periapsis_rate_deg_per_day": -0.029837821463304104,
+    "mean_anomaly_deg": 295.03368441063935,
+    "mean_motion_deg_per_day": 14.51379622814474,
+    "pole_ra_deg": 132.993,
+    "pole_dec_deg": -6.163,
+    "fit": {
+      "rms_deg": 0.16692143669658252,
+      "worst_deg": 0.4389265575693497,
+      "worst_dist_rel": 0.005543214616937546,
+      "n_samples": 1104
+    }
+  },
+  "kerberos": {
+    "a_km": 57760.818976201925,
+    "e": 0.0009520533398240669,
+    "i_deg": 0.4329100876173808,
+    "node_deg": 318.6696849722038,
+    "node_rate_deg_per_day": -0.10878895021194716,
+    "arg_periapsis_deg": 139.9246864462036,
+    "arg_periapsis_rate_deg_per_day": 0.09464060583915654,
+    "mean_anomaly_deg": 169.19721199029874,
+    "mean_motion_deg_per_day": 11.205398913634324,
+    "pole_ra_deg": 132.993,
+    "pole_dec_deg": -6.163,
+    "fit": {
+      "rms_deg": 0.2509249224771152,
+      "worst_deg": 0.6504674922662154,
+      "worst_dist_rel": 0.004760513380732805,
+      "n_samples": 1104
+    }
+  },
+  "hydra": {
+    "a_km": 64719.477659558484,
+    "e": 0.005571014954506289,
+    "i_deg": 0.2712640302231224,
+    "node_deg": 109.47029748846215,
+    "node_rate_deg_per_day": -0.0707169158172262,
+    "arg_periapsis_deg": 148.6728240956771,
+    "arg_periapsis_rate_deg_per_day": 0.14100721353155307,
+    "mean_anomaly_deg": 334.82495865651595,
+    "mean_motion_deg_per_day": 9.353293829534167,
+    "pole_ra_deg": 132.993,
+    "pole_dec_deg": -6.163,
+    "fit": {
+      "rms_deg": 0.06043529832207266,
+      "worst_deg": 0.12146734118093913,
+      "worst_dist_rel": 0.0005489749319199163,
+      "n_samples": 1104
+    }
+  },
+  "dione": {
+    "a_km": 377414.19008310995,
+    "e": 0.002245564143591269,
+    "i_deg": 0.03927884257202737,
+    "node_deg": 200.26327201340007,
+    "node_rate_deg_per_day": 0.0006257649384295459,
+    "arg_periapsis_deg": 14.089746914542275,
+    "arg_periapsis_rate_deg_per_day": 0.08360597201943937,
+    "mean_anomaly_deg": 322.5480181048358,
+    "mean_motion_deg_per_day": 131.45069893865414,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.02736466650853009,
+      "worst_deg": 0.07167065122470818,
+      "worst_dist_rel": 0.0002827893343588127,
+      "n_samples": 1104
+    }
+  },
+  "janus": {
+    "a_km": 151317.63743133302,
+    "e": 0.0016114099780865448,
+    "i_deg": 0.061994423319732345,
+    "node_deg": 161.8310834913432,
+    "node_rate_deg_per_day": -2.1685528928548448,
+    "arg_periapsis_deg": 317.4676644879229,
+    "arg_periapsis_rate_deg_per_day": 6.082151501582459,
+    "mean_anomaly_deg": 165.9949757641415,
+    "mean_motion_deg_per_day": 514.3782505843415,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 2.4361305331643797,
+      "worst_deg": 7.701169043033638,
+      "worst_dist_rel": 0.009226035575204653,
+      "n_samples": 1106
+    },
+    "libration_sin_deg": 31.657426966219077,
+    "libration_cos_deg": -1.484666296199702,
+    "libration_period_days": 2923.0853874156714
+  },
+  "thebe": {
+    "a_km": 221849.86333138173,
+    "e": 0.004545187925359801,
+    "i_deg": 1.0709328508020395,
+    "node_deg": 340.2288204867862,
+    "node_rate_deg_per_day": -1.2363138489904104,
+    "arg_periapsis_deg": 358.75438949164146,
+    "arg_periapsis_rate_deg_per_day": 3.671054972701594,
+    "mean_anomaly_deg": 210.0589930952882,
+    "mean_motion_deg_per_day": 531.2655314957709,
+    "pole_ra_deg": 268.1,
+    "pole_dec_deg": 64.5,
+    "fit": {
+      "rms_deg": 1.3792060922848484,
+      "worst_deg": 2.542388612521948,
+      "worst_dist_rel": 0.02225222572973827,
+      "n_samples": 1104
+    }
+  },
+  "adrastea": {
+    "a_km": 128980.15516893557,
+    "e": 3.575041351168753e-05,
+    "i_deg": 0.018045867535394767,
+    "node_deg": 278.2611279404028,
+    "node_rate_deg_per_day": -0.0007159375363338564,
+    "arg_periapsis_deg": 312.3033262901149,
+    "arg_periapsis_rate_deg_per_day": 0.003033531245004865,
+    "mean_anomaly_deg": 343.85429348515675,
+    "mean_motion_deg_per_day": 1206.996562634785,
+    "pole_ra_deg": 268.1,
+    "pole_dec_deg": 64.5,
+    "fit": {
+      "rms_deg": 0.054170540589302395,
+      "worst_deg": 0.12059189059827098,
+      "worst_dist_rel": 0.0006244751730761808,
+      "n_samples": 1104
+    }
+  },
+  "metis": {
+    "a_km": 127978.91610617767,
+    "e": 0.000132316139793428,
+    "i_deg": 0.019252856811617584,
+    "node_deg": 280.019021324704,
+    "node_rate_deg_per_day": -0.00032868755191462726,
+    "arg_periapsis_deg": 79.71353220761665,
+    "arg_periapsis_rate_deg_per_day": 0.0005763162278775417,
+    "mean_anomaly_deg": 166.22988020983348,
+    "mean_motion_deg_per_day": 1221.2544416976655,
+    "pole_ra_deg": 268.1,
+    "pole_dec_deg": 64.5,
+    "fit": {
+      "rms_deg": 0.07162714365227915,
+      "worst_deg": 0.12022129241677061,
+      "worst_dist_rel": 0.0010218911634565946,
+      "n_samples": 1104
+    }
+  },
+  "tethys": {
+    "a_km": 294673.4445540185,
+    "e": 5.276325478167811e-05,
+    "i_deg": 1.095276781780066,
+    "node_deg": 259.1909536296642,
+    "node_rate_deg_per_day": -0.1978664077895971,
+    "arg_periapsis_deg": 39.35510134341234,
+    "arg_periapsis_rate_deg_per_day": 0.17952368183817546,
+    "mean_anomaly_deg": 249.83869411633913,
+    "mean_motion_deg_per_day": 190.71625433362152,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.035500955719179106,
+      "worst_deg": 0.09039598232787258,
+      "worst_dist_rel": 0.000278309512457499,
+      "n_samples": 1107
+    },
+    "libration_sin_deg": 1.617804203087561,
+    "libration_cos_deg": -1.3252340542097767,
+    "libration_period_days": 25834.005387616835,
+    "libration_sin2_deg": -0.01050312892561673,
+    "libration_cos2_deg": -0.01314089881751228
+  },
+  "hyperion": {
+    "a_km": 1483503.4979074684,
+    "e": 0.1107491562157782,
+    "i_deg": 0.8858207570807118,
+    "node_deg": 260.3438388110216,
+    "node_rate_deg_per_day": -0.006243278709653367,
+    "arg_periapsis_deg": 333.64662283117957,
+    "arg_periapsis_rate_deg_per_day": -0.04481352800906955,
+    "mean_anomaly_deg": 55.58747251450854,
+    "mean_motion_deg_per_day": 16.97100920964623,
+    "pole_ra_deg": 40.2,
+    "pole_dec_deg": 83.6,
+    "fit": {
+      "rms_deg": 1.9253947569319079,
+      "worst_deg": 5.06715754452235,
+      "worst_dist_rel": 0.040264474684556746,
+      "n_samples": 1695
+    },
+    "libration_sin_deg": -1.9626706492826962,
+    "libration_cos_deg": 8.973933733002934,
+    "libration_period_days": 640.5095304026817,
+    "libration_sin2_deg": 0.023650305304046066,
+    "libration_cos2_deg": 0.008301196711138143
+  },
+  "phoebe": {
+    "a_km": 12991599.922674872,
+    "e": 0.16494283755498265,
+    "i_deg": 175.19902649112498,
+    "node_deg": 241.17243786405305,
+    "node_rate_deg_per_day": 0.001346629544659482,
+    "arg_periapsis_deg": 341.7871876486227,
+    "arg_periapsis_rate_deg_per_day": 0.0021002261590951244,
+    "mean_anomaly_deg": 54.03257951392359,
+    "mean_motion_deg_per_day": 0.6534323742421086,
+    "pole_ra_deg": 276.0,
+    "pole_dec_deg": 67.5,
+    "fit": {
+      "rms_deg": 1.0074387237811322,
+      "worst_deg": 2.7687122123614336,
+      "worst_dist_rel": 0.021602314923132256,
+      "n_samples": 1104
+    }
+  },
+  "epimetheus": {
+    "a_km": 149736.92464459548,
+    "e": 0.008927787036475577,
+    "i_deg": 0.07301875523077553,
+    "node_deg": 216.0041154088025,
+    "node_rate_deg_per_day": -2.2092742996022943,
+    "arg_periapsis_deg": 135.8531039839478,
+    "arg_periapsis_rate_deg_per_day": 6.106543148421182,
+    "mean_anomaly_deg": 113.67177514195805,
+    "mean_motion_deg_per_day": 514.3945555714226,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 8.752169477159521,
+      "worst_deg": 24.64569679910678,
+      "worst_dist_rel": 0.02978850030016052,
+      "n_samples": 1694
+    },
+    "libration_sin_deg": -113.40166491593129,
+    "libration_cos_deg": 5.181286183133445,
+    "libration_period_days": 2923.328432111488,
+    "libration_sin2_deg": 0.9831742932910104,
+    "libration_cos2_deg": 0.6553999678372228
+  },
+  "helene": {
+    "a_km": 373029.55064217484,
+    "e": 0.007200306592426861,
+    "i_deg": 0.21847889462701878,
+    "node_deg": 165.39332735428366,
+    "node_rate_deg_per_day": -0.08412358589448063,
+    "arg_periapsis_deg": 46.59202439132082,
+    "arg_periapsis_rate_deg_per_day": 0.16992490463245433,
+    "mean_anomaly_deg": 26.528029901877744,
+    "mean_motion_deg_per_day": 131.4491081612789,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 8.78547345995949,
+      "worst_deg": 24.022797407254394,
+      "worst_dist_rel": 0.015290510715563435,
+      "n_samples": 1695
+    },
+    "libration_sin_deg": -4.363074286702146,
+    "libration_cos_deg": -6.385044341764889,
+    "libration_period_days": 802.9501619022036,
+    "libration_sin2_deg": -1.0437477513097555,
+    "libration_cos2_deg": -0.9401107420573822
+  },
+  "telesto": {
+    "a_km": 294618.5959708017,
+    "e": 0.000165833261005154,
+    "i_deg": 1.1887651494943345,
+    "node_deg": 228.79007442050977,
+    "node_rate_deg_per_day": -0.19785001279848738,
+    "arg_periapsis_deg": 100.56550385028407,
+    "arg_periapsis_rate_deg_per_day": 0.15722926231385614,
+    "mean_anomaly_deg": 278.392509710353,
+    "mean_motion_deg_per_day": 190.73854168709954,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 1.1105454954477907,
+      "worst_deg": 3.2776298512592623,
+      "worst_dist_rel": 0.0006675370555179895,
+      "n_samples": 1107
+    },
+    "libration_sin_deg": -0.9509722224440684,
+    "libration_cos_deg": -1.184197749413678,
+    "libration_period_days": 696.0808266129271,
+    "libration_sin2_deg": -0.08631025141444965,
+    "libration_cos2_deg": -0.1837600951298892
+  },
+  "calypso": {
+    "a_km": 294612.24509638344,
+    "e": 0.00020735045226958428,
+    "i_deg": 1.493023416428104,
+    "node_deg": 313.78636520243833,
+    "node_rate_deg_per_day": -0.19781539554699273,
+    "arg_periapsis_deg": 351.4970326187838,
+    "arg_periapsis_rate_deg_per_day": 0.16990390259464205,
+    "mean_anomaly_deg": 182.3383125690056,
+    "mean_motion_deg_per_day": 190.72583251165452,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 1.1104683839149674,
+      "worst_deg": 3.2491913304439333,
+      "worst_dist_rel": 0.0010591592139586312,
+      "n_samples": 1107
+    },
+    "libration_sin_deg": 3.3275305700194022,
+    "libration_cos_deg": 1.1362405928248431,
+    "libration_period_days": 696.9290611548571,
+    "libration_sin2_deg": -0.04023959225539589,
+    "libration_cos2_deg": -0.21843713027080272
+  },
+  "atlas": {
+    "a_km": 137295.83266705828,
+    "e": 0.0009563989520833755,
+    "i_deg": 0.035914874613237426,
+    "node_deg": 183.18642924321585,
+    "node_rate_deg_per_day": -0.0029268490959762678,
+    "arg_periapsis_deg": 256.8514552184116,
+    "arg_periapsis_rate_deg_per_day": 2.8635931567546984,
+    "mean_anomaly_deg": 289.48310222828206,
+    "mean_motion_deg_per_day": 595.454596377135,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 4.206739286096434,
+      "worst_deg": 16.008597746570004,
+      "worst_dist_rel": 0.004820720340246436,
+      "n_samples": 1106
+    }
+  },
+  "prometheus": {
+    "a_km": 139170.95027320422,
+    "e": 0.0021859992614242634,
+    "i_deg": 0.03361252236799404,
+    "node_deg": 186.96721177061096,
+    "node_rate_deg_per_day": -0.004475999822103535,
+    "arg_periapsis_deg": 169.12076427509407,
+    "arg_periapsis_rate_deg_per_day": 2.761042461341348,
+    "mean_anomaly_deg": 97.15041302272533,
+    "mean_motion_deg_per_day": 584.5301845045947,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 3.1231575148408175,
+      "worst_deg": 15.791859757105287,
+      "worst_dist_rel": 0.0022700395251446896,
+      "n_samples": 1694
+    },
+    "libration_sin_deg": 0.42184566894791403,
+    "libration_cos_deg": 0.8739339638970698,
+    "libration_period_days": 2209.93770426644,
+    "libration_sin2_deg": 0.31431919644596906,
+    "libration_cos2_deg": 0.43754653299569674
+  },
+  "pandora": {
+    "a_km": 141295.87899971346,
+    "e": 0.0039492217279228905,
+    "i_deg": 0.03953802018560634,
+    "node_deg": 174.03319731012255,
+    "node_rate_deg_per_day": 0.00036484347689814386,
+    "arg_periapsis_deg": 40.1131381296787,
+    "arg_periapsis_rate_deg_per_day": 2.5986957379351527,
+    "mean_anomaly_deg": 124.46379221259116,
+    "mean_motion_deg_per_day": 570.1877942993402,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 4.411337354111294,
+      "worst_deg": 28.036756008195663,
+      "worst_dist_rel": 0.005510191560876918,
+      "n_samples": 1694
+    },
+    "libration_sin_deg": -0.41914136797405904,
+    "libration_cos_deg": -0.6502804916600737,
+    "libration_period_days": 2204.725158104394,
+    "libration_sin2_deg": -0.3291516434528797,
+    "libration_cos2_deg": -0.09065602485370623
+  },
+  "pan": {
+    "a_km": 133584.47305367704,
+    "e": 5.277095955378606e-07,
+    "i_deg": 0.0376408478603802,
+    "node_deg": 183.1495702465213,
+    "node_rate_deg_per_day": 0.00015962596309716787,
+    "arg_periapsis_deg": 323.8663174705543,
+    "arg_periapsis_rate_deg_per_day": -0.00012789350683968276,
+    "mean_anomaly_deg": 359.5577837332443,
+    "mean_motion_deg_per_day": 626.0317035775124,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.0011513764207175161,
+      "worst_deg": 0.004403214562837274,
+      "worst_dist_rel": 8.015932447261106e-06,
+      "n_samples": 1106
+    }
+  },
+  "daphnis": {
+    "a_km": 136504.11875470745,
+    "e": 4.6128559502320995e-10,
+    "i_deg": 0.037376994297252726,
+    "node_deg": 182.13384043269124,
+    "node_rate_deg_per_day": -9.332079000258315e-06,
+    "arg_periapsis_deg": 286.1698651484676,
+    "arg_periapsis_rate_deg_per_day": -3.98946359220983e-05,
+    "mean_anomaly_deg": 45.225649001683735,
+    "mean_motion_deg_per_day": 605.9791084582143,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.25930030170340806,
+      "worst_deg": 1.0871412642833613,
+      "worst_dist_rel": 2.369045506903152e-05,
+      "n_samples": 1118
+    }
+  },
+  "methone": {
+    "a_km": 193919.68738870916,
+    "e": 0.00018275898128982909,
+    "i_deg": 0.03726277608093289,
+    "node_deg": 187.8476935094365,
+    "node_rate_deg_per_day": 0.00027381467312099253,
+    "arg_periapsis_deg": 26.32403724130154,
+    "arg_periapsis_rate_deg_per_day": 0.12610734458607192,
+    "mean_anomaly_deg": 305.5204010213566,
+    "mean_motion_deg_per_day": 356.46855892299976,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 3.303352394794453,
+      "worst_deg": 8.040082553022996,
+      "worst_dist_rel": 0.002968512181338639,
+      "n_samples": 1695
+    },
+    "libration_sin_deg": 0.7240434113733749,
+    "libration_cos_deg": 1.0952145715544261,
+    "libration_period_days": 440.0435370145343,
+    "libration_sin2_deg": 0.3407877900902006,
+    "libration_cos2_deg": 0.6419278880508852,
+    "libration2_sin_deg": -31.482644208189658,
+    "libration2_cos_deg": 26.31027403602538,
+    "libration2_period_days": 25852.78473744479
+  },
+  "pallene": {
+    "a_km": 212280.95248882452,
+    "e": 0.0011915132193506372,
+    "i_deg": 0.1791415273205917,
+    "node_deg": 300.9187414022809,
+    "node_rate_deg_per_day": -0.6230203391823039,
+    "arg_periapsis_deg": 182.83734424078784,
+    "arg_periapsis_rate_deg_per_day": 1.8605240708658612,
+    "mean_anomaly_deg": 17.16104161348926,
+    "mean_motion_deg_per_day": 310.7896802901146,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.39865675251715244,
+      "worst_deg": 1.3145549543692523,
+      "worst_dist_rel": 0.005172850248347202,
+      "n_samples": 1106
+    },
+    "libration_sin_deg": 0.02529508796964358,
+    "libration_cos_deg": 0.06306083239641233,
+    "libration_period_days": 471.7853944402943,
+    "libration_sin2_deg": 0.03329390508550491,
+    "libration_cos2_deg": 0.038362024538348076
+  },
+  "polydeuces": {
+    "a_km": 377345.083424873,
+    "e": 0.019001580743701098,
+    "i_deg": 0.16552881477262144,
+    "node_deg": 69.84033602402374,
+    "node_rate_deg_per_day": -0.08424130646341847,
+    "arg_periapsis_deg": 310.1587073662387,
+    "arg_periapsis_rate_deg_per_day": 0.16956916159476698,
+    "mean_anomaly_deg": 89.06016264333438,
+    "mean_motion_deg_per_day": 131.44960346175023,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 0.2800542516254071,
+      "worst_deg": 0.6090337420304599,
+      "worst_dist_rel": 0.001586101428489969,
+      "n_samples": 1443
+    },
+    "libration_sin_deg": 20.45284595778545,
+    "libration_cos_deg": -15.83857557437588,
+    "libration_period_days": 791.7696797890399,
+    "libration_sin2_deg": -2.484132594628464,
+    "libration_cos2_deg": -0.5686307336196215
+  },
+  "anthe": {
+    "a_km": 197122.60277036414,
+    "e": 0.0006842481394512669,
+    "i_deg": 0.020558984310487197,
+    "node_deg": 194.42683711278485,
+    "node_rate_deg_per_day": -0.019511997783510576,
+    "arg_periapsis_deg": 243.08839297311772,
+    "arg_periapsis_rate_deg_per_day": 0.7938603532651888,
+    "mean_anomaly_deg": 179.6827330476385,
+    "mean_motion_deg_per_day": 346.58437160075357,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 4.198611525959093,
+      "worst_deg": 12.278612876317629,
+      "worst_dist_rel": 0.0051446499535750595,
+      "n_samples": 1694
+    },
+    "libration_sin_deg": -0.20326619971254828,
+    "libration_cos_deg": -3.646526605209677,
+    "libration_period_days": 728.3235655202808,
+    "libration_sin2_deg": -0.2830660149660121,
+    "libration_cos2_deg": -0.5757831515849521,
+    "libration2_sin_deg": -30.49179911367144,
+    "libration2_cos_deg": 24.895621024278956,
+    "libration2_period_days": 25831.17923633209
+  },
+  "aegaeon": {
+    "a_km": 167439.9757455272,
+    "e": 4.088326044515585e-05,
+    "i_deg": 0.03783551477918602,
+    "node_deg": 183.33144813320257,
+    "node_rate_deg_per_day": 9.811738075329815e-05,
+    "arg_periapsis_deg": 295.0677586953235,
+    "arg_periapsis_rate_deg_per_day": -0.11131665564608914,
+    "mean_anomaly_deg": 314.652695189763,
+    "mean_motion_deg_per_day": 445.60463207197324,
+    "pole_ra_deg": 40.6,
+    "pole_dec_deg": 83.5,
+    "fit": {
+      "rms_deg": 1.4693005840563047,
+      "worst_deg": 3.313710024637682,
+      "worst_dist_rel": 0.0007929231888047516,
+      "n_samples": 1694
+    },
+    "libration_sin_deg": -0.08458371670431235,
+    "libration_cos_deg": -0.13149687091986742,
+    "libration_period_days": 481.9251409446573,
+    "libration_sin2_deg": -0.0029965499391298527,
+    "libration_cos2_deg": -0.1212596912971082,
+    "libration2_sin_deg": -39.108008357255365,
+    "libration2_cos_deg": 32.443793445468245,
+    "libration2_period_days": 25781.913067017857
+  },
+  "puck": {
+    "a_km": 86005.22409032068,
+    "e": 0.0029694477586996587,
+    "i_deg": 1.0517048107617495,
+    "node_deg": 272.7977076199903,
+    "node_rate_deg_per_day": -0.25422288911356483,
+    "arg_periapsis_deg": 9.173004341082926,
+    "arg_periapsis_rate_deg_per_day": 0.7281763299430422,
+    "mean_anomaly_deg": 348.1473678116633,
+    "mean_motion_deg_per_day": 472.07025681338325,
+    "pole_ra_deg": 77.311,
+    "pole_dec_deg": 15.175,
+    "fit": {
+      "rms_deg": 0.69159367165488,
+      "worst_deg": 1.3915167465668288,
+      "worst_dist_rel": 0.012013712348630856,
+      "n_samples": 1107
+    }
+  },
+  "cordelia": {
+    "a_km": 49755.31829176196,
+    "e": 8.626187151175064e-05,
+    "i_deg": 0.045273950806638465,
+    "node_deg": 252.29741550158772,
+    "node_rate_deg_per_day": -1.6010039594006844,
+    "arg_periapsis_deg": 105.58180705187335,
+    "arg_periapsis_rate_deg_per_day": 1.6026520837304359,
+    "mean_anomaly_deg": 184.6205284211378,
+    "mean_motion_deg_per_day": 1074.5091430218852,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.10440123746383151,
+      "worst_deg": 0.23036929419626884,
+      "worst_dist_rel": 0.0005027674085497185,
+      "n_samples": 1107
+    }
+  },
+  "ophelia": {
+    "a_km": 53716.14823759655,
+    "e": 0.0028867254246175353,
+    "i_deg": 0.06764884122441887,
+    "node_deg": 264.6465029526859,
+    "node_rate_deg_per_day": -1.1919095819470777,
+    "arg_periapsis_deg": 110.49494682854834,
+    "arg_periapsis_rate_deg_per_day": 3.650401110867471,
+    "mean_anomaly_deg": 226.33063983097998,
+    "mean_motion_deg_per_day": 954.0210871522315,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.8393259728734487,
+      "worst_deg": 1.558619685809668,
+      "worst_dist_rel": 0.014024173001032576,
+      "n_samples": 1107
+    }
+  },
+  "bianca": {
+    "a_km": 59169.165722684906,
+    "e": 0.0016959791098758868,
+    "i_deg": 2.3359853245056823,
+    "node_deg": 197.21480788137762,
+    "node_rate_deg_per_day": -0.9379494465686992,
+    "arg_periapsis_deg": 105.40148387055496,
+    "arg_periapsis_rate_deg_per_day": 2.8882825121858358,
+    "mean_anomaly_deg": 303.30797422248725,
+    "mean_motion_deg_per_day": 826.4366160314653,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.48319186865984803,
+      "worst_deg": 0.9066478703183842,
+      "worst_dist_rel": 0.007926574911638277,
+      "n_samples": 1107
+    }
+  },
+  "cressida": {
+    "a_km": 61769.304986799885,
+    "e": 0.0012586072482768415,
+    "i_deg": 1.7783320020308377,
+    "node_deg": 117.25873932078478,
+    "node_rate_deg_per_day": -0.807037371270979,
+    "arg_periapsis_deg": 92.47240319669946,
+    "arg_periapsis_rate_deg_per_day": 2.4249236804315863,
+    "mean_anomaly_deg": 98.86114717910436,
+    "mean_motion_deg_per_day": 774.9643054010961,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.3399522255995707,
+      "worst_deg": 0.6459712899963086,
+      "worst_dist_rel": 0.005641803738336358,
+      "n_samples": 1107
+    }
+  },
+  "desdemona": {
+    "a_km": 62659.82190694243,
+    "e": 0.0019066217044816868,
+    "i_deg": 3.129877181544657,
+    "node_deg": 85.93710025810384,
+    "node_rate_deg_per_day": -0.7668150355345369,
+    "arg_periapsis_deg": 176.39639622583456,
+    "arg_periapsis_rate_deg_per_day": 2.4357818801642166,
+    "mean_anomaly_deg": 359.08022834387646,
+    "mean_motion_deg_per_day": 758.3881818637501,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.5369345464327929,
+      "worst_deg": 1.0088560214960693,
+      "worst_dist_rel": 0.008793802397687695,
+      "n_samples": 1107
+    }
+  },
+  "juliet": {
+    "a_km": 64353.982663231865,
+    "e": 0.0019232970365560082,
+    "i_deg": 3.0327453758595153,
+    "node_deg": 37.40533230672383,
+    "node_rate_deg_per_day": -0.6982884396428972,
+    "arg_periapsis_deg": 123.47020939857646,
+    "arg_periapsis_rate_deg_per_day": 2.0856076129442847,
+    "mean_anomaly_deg": 280.7350234610236,
+    "mean_motion_deg_per_day": 728.7366221087989,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.49329786616452037,
+      "worst_deg": 0.957377172741082,
+      "worst_dist_rel": 0.00837535752667371,
+      "n_samples": 1107
+    }
+  },
+  "portia": {
+    "a_km": 66098.93375655137,
+    "e": 0.0010773384116768018,
+    "i_deg": 2.6666597536326027,
+    "node_deg": 196.76497680166867,
+    "node_rate_deg_per_day": -0.6362771753025682,
+    "arg_periapsis_deg": 290.3517858845145,
+    "arg_periapsis_rate_deg_per_day": 1.8861777957391261,
+    "mean_anomaly_deg": 152.26583946182097,
+    "mean_motion_deg_per_day": 700.2429550261587,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.2803806713821958,
+      "worst_deg": 0.5374829818952378,
+      "worst_dist_rel": 0.00467348894172832,
+      "n_samples": 1107
+    }
+  },
+  "rosalind": {
+    "a_km": 69929.10875983431,
+    "e": 0.0010123895366612537,
+    "i_deg": 1.6849199096720713,
+    "node_deg": 64.43781800476245,
+    "node_rate_deg_per_day": -0.52287938361992,
+    "arg_periapsis_deg": 30.258144361610675,
+    "arg_periapsis_rate_deg_per_day": 1.658567031791198,
+    "mean_anomaly_deg": 347.2749779009249,
+    "mean_motion_deg_per_day": 643.4901788407528,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.26254532311917517,
+      "worst_deg": 0.5085685059625044,
+      "worst_dist_rel": 0.0043888825855548244,
+      "n_samples": 1107
+    }
+  },
+  "belinda": {
+    "a_km": 75258.83301223705,
+    "e": 0.00048196863797028916,
+    "i_deg": 1.4174017724513353,
+    "node_deg": 191.3714206069636,
+    "node_rate_deg_per_day": -0.40467904136199734,
+    "arg_periapsis_deg": 219.15610931852416,
+    "arg_periapsis_rate_deg_per_day": 1.2288764924969946,
+    "mean_anomaly_deg": 18.204867477722644,
+    "mean_motion_deg_per_day": 576.5340354176183,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.12276881597188134,
+      "worst_deg": 0.25366926329908324,
+      "worst_dist_rel": 0.002067801447457404,
+      "n_samples": 1107
+    }
+  },
+  "perdita": {
+    "a_km": 76415.0868472781,
+    "e": 0.001526355430313235,
+    "i_deg": 1.5997529196281386,
+    "node_deg": 173.49453876075398,
+    "node_rate_deg_per_day": -0.38366931212152566,
+    "arg_periapsis_deg": 122.15920005561908,
+    "arg_periapsis_rate_deg_per_day": 1.1826167357847421,
+    "mean_anomaly_deg": 231.91819777241653,
+    "mean_motion_deg_per_day": 563.4590706453888,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.37416240102521287,
+      "worst_deg": 0.7415251609437811,
+      "worst_dist_rel": 0.006381030749304831,
+      "n_samples": 1107
+    }
+  },
+  "mab": {
+    "a_km": 97735.2128161594,
+    "e": 0.002013780616874451,
+    "i_deg": 1.832687803832297,
+    "node_deg": 1.047766769907678,
+    "node_rate_deg_per_day": -0.1634870627255453,
+    "arg_periapsis_deg": 211.67414849157532,
+    "arg_periapsis_rate_deg_per_day": 0.44763405017218816,
+    "mean_anomaly_deg": 9.245481026136247,
+    "mean_motion_deg_per_day": 389.76910995807077,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.4348850335779991,
+      "worst_deg": 0.9013873695908594,
+      "worst_dist_rel": 0.007760505643611815,
+      "n_samples": 1107
+    }
+  },
+  "cupid": {
+    "a_km": 74394.94605326028,
+    "e": 0.0022827863358676702,
+    "i_deg": 2.0119361949092585,
+    "node_deg": 277.31861212344216,
+    "node_rate_deg_per_day": -0.4211754573605597,
+    "arg_periapsis_deg": 30.040127369478483,
+    "arg_periapsis_rate_deg_per_day": 1.2585128005595292,
+    "mean_anomaly_deg": 72.08498805678573,
+    "mean_motion_deg_per_day": 586.5992372127972,
+    "pole_ra_deg": 77.3,
+    "pole_dec_deg": 15.2,
+    "fit": {
+      "rms_deg": 0.5623656625277702,
+      "worst_deg": 1.0949972177131466,
+      "worst_dist_rel": 0.00963003032002847,
+      "n_samples": 1107
+    }
+  },
+  "naiad": {
+    "a_km": 48225.989639448664,
+    "e": 3.70201112053886e-05,
+    "i_deg": 4.680509300240296,
+    "node_deg": 37.97973532224693,
+    "node_rate_deg_per_day": -1.7131577447387,
+    "arg_periapsis_deg": 100.36624015874628,
+    "arg_periapsis_rate_deg_per_day": 1.7106212016054667,
+    "mean_anomaly_deg": 349.6825037377823,
+    "mean_motion_deg_per_day": 1222.860949674559,
+    "pole_ra_deg": 299.7,
+    "pole_dec_deg": 42.7,
+    "fit": {
+      "rms_deg": 0.32012622782117706,
+      "worst_deg": 0.7153502662935348,
+      "worst_dist_rel": 0.00020708807219042895,
+      "n_samples": 1107
+    }
+  },
+  "thalassa": {
+    "a_km": 50073.86702455625,
+    "e": 5.127289029986109e-05,
+    "i_deg": 0.12561029072112143,
+    "node_deg": 160.79825633668386,
+    "node_rate_deg_per_day": -1.5067266126059473,
+    "arg_periapsis_deg": 206.05017245543468,
+    "arg_periapsis_rate_deg_per_day": 1.5066919528997134,
+    "mean_anomaly_deg": 286.4734349031113,
+    "mean_motion_deg_per_day": 1155.7586380150021,
+    "pole_ra_deg": 299.7,
+    "pole_dec_deg": 42.7,
+    "fit": {
+      "rms_deg": 0.2772304136066473,
+      "worst_deg": 0.6894398223749165,
+      "worst_dist_rel": 0.00027668587597206673,
+      "n_samples": 1107
+    }
+  },
+  "despina": {
+    "a_km": 52525.958723420496,
+    "e": 8.520021948682975e-05,
+    "i_deg": 0.3693643149902983,
+    "node_deg": 219.28441306792567,
+    "node_rate_deg_per_day": -0.0005528854476519029,
+    "arg_periapsis_deg": 149.43211755148536,
+    "arg_periapsis_rate_deg_per_day": -0.0012484118991271712,
+    "mean_anomaly_deg": 113.48994011476088,
+    "mean_motion_deg_per_day": 1075.7348786120888,
+    "pole_ra_deg": 299.7,
+    "pole_dec_deg": 42.7,
+    "fit": {
+      "rms_deg": 0.07872387385952237,
+      "worst_deg": 0.35205245810876645,
+      "worst_dist_rel": 0.0004181400959531722,
+      "n_samples": 1107
+    }
+  },
+  "galatea": {
+    "a_km": 61952.50758947489,
+    "e": 5.5558564275811846e-05,
+    "i_deg": 0.3634303084224166,
+    "node_deg": 296.87414483389483,
+    "node_rate_deg_per_day": 0.0008143509378797515,
+    "arg_periapsis_deg": 126.515331407004,
+    "arg_periapsis_rate_deg_per_day": 3.7562792321089465e-05,
+    "mean_anomaly_deg": 20.293533397710007,
+    "mean_motion_deg_per_day": 839.6604626284449,
+    "pole_ra_deg": 299.8,
+    "pole_dec_deg": 43.1,
+    "fit": {
+      "rms_deg": 0.0637104675468952,
+      "worst_deg": 0.2559631941636106,
+      "worst_dist_rel": 0.00024935364740204176,
+      "n_samples": 1107
+    }
+  },
+  "larissa": {
+    "a_km": 73547.70959745873,
+    "e": 0.00037666411861330323,
+    "i_deg": 0.32743988873721847,
+    "node_deg": 309.74624544493366,
+    "node_rate_deg_per_day": -0.39211513229009987,
+    "arg_periapsis_deg": 235.76499117233158,
+    "arg_periapsis_rate_deg_per_day": 1.200174300513798,
+    "mean_anomaly_deg": 176.22121166650538,
+    "mean_motion_deg_per_day": 648.2460420862697,
+    "pole_ra_deg": 299.8,
+    "pole_dec_deg": 43.1,
+    "fit": {
+      "rms_deg": 0.2809441221219173,
+      "worst_deg": 0.7350521498610014,
+      "worst_dist_rel": 0.0015929224615378666,
+      "n_samples": 1107
+    }
+  },
+  "hippocamp": {
+    "a_km": 105283.01451282634,
+    "e": 0.00055920444731275,
+    "i_deg": 0.5061133617628025,
+    "node_deg": 321.18210657197346,
+    "node_rate_deg_per_day": 0.0014474006515773031,
+    "arg_periapsis_deg": 21.340608831452194,
+    "arg_periapsis_rate_deg_per_day": 0.1124739271189998,
+    "mean_anomaly_deg": 287.86060563478406,
+    "mean_motion_deg_per_day": 378.79231251728413,
+    "pole_ra_deg": 299.8,
+    "pole_dec_deg": 43.0,
+    "fit": {
+      "rms_deg": 0.09063644764120253,
+      "worst_deg": 0.38075820168146424,
+      "worst_dist_rel": 0.00022249667601290617,
+      "n_samples": 1107
+    }
+  }
+}

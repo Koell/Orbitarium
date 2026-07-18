@@ -1,8 +1,11 @@
 ==========================
-Orbitalis Documentation
+Orbitarium Documentation
 ==========================
 
-Welcome to the Orbitalis documentation.
+Welcome to the Orbitarium documentation. Orbitarium is a zero-dependency
+Python library that computes real, error-bounded positions and velocities
+for the Sun's planets and 67 of their moons at any timestamp, tested
+against pinned JPL Horizons reference states.
 
 Contents:
 

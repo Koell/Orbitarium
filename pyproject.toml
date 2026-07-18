@@ -4,20 +4,27 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "orbitarium"
-version = "1.0.1"
+version = "2.0.0"
 authors = [
     { name = "Fabian Köll", email = "koell.dev@gmail.com" },
 ]
-description = "A library to approximate positions of planets and moons in our Solar System."
+description = "Zero-dependency ephemeris: JPL-derived positions and velocities for the planets and 67 moons, tested against JPL Horizons."
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.11"
 license = { text = "GPLv3" }
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Astronomy",
 ]
 
 [project.urls]
 Homepage = "https://github.com/koell/orbitarium"
 Issues = "https://github.com/koell/orbitarium/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"

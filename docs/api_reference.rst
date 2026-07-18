@@ -2,5 +2,8 @@
 API Reference
 ==========================
 
-.. automodule:: orbitalis.core
+.. automodule:: orbitarium.core
+    :members:
+
+.. automodule:: orbitarium.data.catalog
     :members:

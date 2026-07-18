@@ -2,10 +2,11 @@
 Installation
 ==========================
 
-You can install Orbitalis using pip:
+You can install Orbitarium using pip:
 
 .. code-block:: bash
 
-    pip install orbitalis
+    pip install orbitarium
 
-This will download and install the package and its dependencies.
+Orbitarium is pure Python (3.11 or newer) with zero runtime
+dependencies -- nothing else is downloaded or installed.
